@@ -2,22 +2,14 @@
 
 Welcome to my GitHub page. I'm a Power Platform Developer with prior experience with the following technologies:
 
-- Power Apps [^1]
-- Power Automate [^1]
-- Power BI [^1]
-- Azure Active Directory [^1]
-- Azure B2B Identity Governance [^1]
-- OpenAPI [^1]
-- REST [^1]
-- HTML [^1]
-- CSS [^1]
-- Javascript [^2] and JSON [^1]
-- JQuery [^2]
-- VBA [^2]
-- SQL [^2]
-- T-SQL [^2]
-- C++ [^3]
-- Git [^3]
+#### Skills
+ - Low-Code Technologies: Power Apps [^1], Power Automate [^1], Power BI [^1]
+ - Languages: Javascript [^2], VBA [^2], C++ [^3]
+ - Frameworks: JQuery [^2]
+ - Web technologies: HTML [^1], CSS [^1], JSON [^1], OpenAPI [^1], REST [^1]
+ - Database: Azure SQL [^2], SQL Server [^2], SQL [^2], T-SQL [^2]
+ - Cloud: Azure Active Directory [^1], Azure B2B Identity Governance [^1]
+ - IDE, Versioning, and Build Tools: Git [^3]
 
 Sadly, I never had formal training on programming and learned from the school of hard knocks through various projects throughout my career. These days, I gain most of my development experience working in Power Platform in the GCC[^4]: environment. This means I don't get to play with the new shiny toys, but instead have to figure out how to create the shiny toys using older technologies for my clients.
 
